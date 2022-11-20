@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Zhenbang LI</title>
+    <link>https://example.com/project/</link>
+      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://example.com/project/</link>
+    </image>
+    
+    <item>
+      <title>Plenoptic Stages (Light Stages) in Deemos Technologies and ShanghaiTech MARS lab</title>
+      <link>https://example.com/project/example/</link>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/example/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+&lt;p&gt;Systems that can generate self-defined gradient illumination patterns and synchronize with camera systems
+to acquire visual data sequences of objects, which can be used to generate pore-level facial models for
+relighting use in the film industry, game industry, or light commercial use like video meetings. These systems can
+work at high-speed rate up to 100hz, which is top-tier performance in the world.
+Many Commercial Products and Paper have been developed based on the systems we developed.&lt;/p&gt;
+&lt;h3 id=&#34;contribution&#34;&gt;Contribution&lt;/h3&gt;
+&lt;p&gt;Worked as a 2 people team, developed and produced 2 generations of light stages.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Design and Engineering of the PCB, code, and structure of the Embedded light systems.&lt;/li&gt;
+&lt;li&gt;Design and Engineering of the physical structures and nodes boards of the frame.&lt;/li&gt;
+&lt;li&gt;Engineering of the data acquisition system.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;patent&#34;&gt;Patent&lt;/h3&gt;
+&lt;p&gt;Three-dimensional reconstruction data acquisition system Espacenet link
+WU DI; CAO RUIXIANG; LI ZHENBANG; YU JINGYI. 2022. Three-dimensional reconstruction data acquisition
+system. CN. Patent Application CN215679031, filed May 1, 2021, and issued January 28, 2022. PATENT GRANT.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
