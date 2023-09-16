@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HCI | Zhenbang LI</title>
+    <link>https://example.com/tag/hci/</link>
+      <atom:link href="https://example.com/tag/hci/index.xml" rel="self" type="application/rss+xml" />
+    <description>HCI</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>HCI</title>
+      <link>https://example.com/tag/hci/</link>
+    </image>
+    
+    <item>
+      <title>Human pose and pose similarity estimation based on passive BLE beacon triggering</title>
+      <link>https://example.com/project/graduate_design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/graduate_design/</guid>
+      <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
+&lt;p&gt;The collection of human kinetic energy has great potential for applications in fields such as the Internet of Things and Human-computer Interaction, and its energy conversion mechanisms, information processing processes and related applications have been explored to some extent. Meanwhile, lightweight human detection models have been applied in the field of sports and health. However, current research has few cases of using motion energy harvesting-based Bluetooth beacons to trigger vision systems. This type of system has the advantages of low data volume, high critical information density, and low power consumption. Its construction process, application scenarios, advantages and reliability are in the stage of exploration. Based on this, this graduation design takes the key point recognition of human pose as the target task, builds a Bluetooth beacon-triggered vision capture system powered by motion energy, deploys a lightweight pose detection model MoveNet, tests various detection scenarios such as variable frame rate sequence pose detection, and explores the post-processing process of pose similarity detection represented by skeleton-oriented cosine similarity. On this basis, the specific application scenarios of the system in fitness and entertainment, industrial security and other fields are further discussed to provide a certain basis for the subsequent related research.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
